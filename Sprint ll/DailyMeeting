@@ -21,8 +21,11 @@ iii. ¿Qué dificultades ha tenido?
 ----------------------------------------------------------------------------------------
 Desarrollador: Fabian Palacios
 i. ¿Qué hizo ayer?
+  RTA: Iniciar los apartes del paso a paso en Blazor, en donde llegue hasta el cuarto paso en donde trato de asimilar el aprendizaje del nuevo framework.
 ii ¿Qué hará hoy?
+  RTA: Realizar un boceto del domino de las entidades, preguntar la exactitud de los requisitos.
 iii. ¿Qué dificultades ha tenido?
+  RTA: Ha sido dificil realizar el paso a paso tan anticipadamente sin los ejemplos que se plantean en las clases.
 ----------------------------------------------------------------------------------------
 Desarrollador: Jhony Castro
 i. ¿Qué hizo ayer?
@@ -70,11 +73,11 @@ iii. ¿Qué dificultades ha tenido?
 ----------------------------------------------------------------------------------------
 Desarrollador: Fabian Palacios
 i. ¿Qué hizo ayer?
-  RTA: 
+  RTA: Realizar el primer boceto de las clases del dominio, conseguir los requisitos del sistema y terminar el paso a paso.
 ii ¿Qué hará hoy? 
-  RTA: 
+  RTA: Realizar un boceto del dominio Entidad-Relación en el cual se inciará a identificar los datos que se manejaran.
 iii. ¿Qué dificultades ha tenido?
-  RTA:
+  RTA: La terminación del paso a paso ha sido compleja por la instalación de paquetes, referencias y compilación de programas que son nuevos para mi.
 ----------------------------------------------------------------------------------------
 Desarrollador: Jhony Castro
 i. ¿Qué hizo ayer?
@@ -103,11 +106,11 @@ Fecha:
 ----------------------------------------------------------------------------------------
 Desarrollador: Tatiana Pineda Administracion de configuración.
 i. ¿Qué hizo ayer?
-  RTA: 
+  RTA: Realizar un segundo bosquejo de Entidad-Relacion junto con el Desarrollador UI para indentificar los datos que se van a utilizar en las clases.
 ii ¿Qué hará hoy? 
-  RTA: 
+  RTA: Trazar el modelo definitivo de Entidad-Relación para la entrega, e iniciar la trazabilidad de las clases del dominio.
 iii. ¿Qué dificultades ha tenido?
-  RTA:
+  RTA: Iniciar la trazabilidad del dominio incluyendo a Razor en el proyecto.
 ----------------------------------------------------------------------------------------
 Desarrollador: Anthony Diaz
 i. ¿Qué hizo ayer?
