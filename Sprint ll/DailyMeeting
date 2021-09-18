@@ -106,11 +106,11 @@ Fecha:
 ----------------------------------------------------------------------------------------
 Desarrollador: Tatiana Pineda Administracion de configuración.
 i. ¿Qué hizo ayer?
-  RTA: Realizar un segundo bosquejo de Entidad-Relacion junto con el Desarrollador UI para indentificar los datos que se van a utilizar en las clases.
+  RTA: 
 ii ¿Qué hará hoy? 
-  RTA: Trazar el modelo definitivo de Entidad-Relación para la entrega, e iniciar la trazabilidad de las clases del dominio.
+  RTA: 
 iii. ¿Qué dificultades ha tenido?
-  RTA: Iniciar la trazabilidad del dominio incluyendo a Razor en el proyecto.
+  RTA:
 ----------------------------------------------------------------------------------------
 Desarrollador: Anthony Diaz
 i. ¿Qué hizo ayer?
@@ -130,10 +130,11 @@ iii. ¿Qué dificultades ha tenido?
 ----------------------------------------------------------------------------------------
 Desarrollador: Jhony Castro
 i. ¿Qué hizo ayer?
-  RTA: 
+  RTA: Realizar un segundo bosquejo de Entidad-Relacion junto con el Desarrollador UI para indentificar los datos que se van a utilizar en las clases.
 ii ¿Qué hará hoy? 
-  RTA: 
+  RTA: Trazar el modelo definitivo de Entidad-Relación para la entrega, e iniciar la trazabilidad de las clases del dominio.
 iii. ¿Qué dificultades ha tenido?
+  RTA: Iniciar la trazabilidad del dominio incluyendo a Razor en el proyecto.
   RTA:----------------------------------------------------------------------------------------
 Desarrollador: Rafael Arturo Suarez
 i. ¿Qué hizo ayer?
