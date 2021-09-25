@@ -122,11 +122,11 @@ iii. ¿Qué dificultades ha tenido?
 ----------------------------------------------------------------------------------------
 Desarrollador: Fabian Palacios
 i. ¿Qué hizo ayer?
-  RTA: 
+  RTA: construir la mayoria de los componentes de la pagina principal en la capa de presentacion
 ii ¿Qué hará hoy? 
-  RTA: 
+  RTA: construir la capa de servicios para recibir informacion y dirigirla a los componentes.
 iii. ¿Qué dificultades ha tenido?
-  RTA:
+  RTA: Iniciar y comprender como realizar la capa de persistencia.
 ----------------------------------------------------------------------------------------
 Desarrollador: Jhony Castro
 i. ¿Qué hizo ayer?
