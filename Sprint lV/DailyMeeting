@@ -21,11 +21,12 @@ iii. ¿Qué dificultades ha tenido?
 ***************************************************************************************************************************************************************************
 Desarrollador: Fabian Palacios (Desarrollo de software)
 i. ¿Qué hizo ayer?
-    RTA:  construir la mayoria de los componentes de la pagina principal en la capa de presentacion.
+    RTA:  Revisión y repaso de la capa de persistencia con la capa de dominio para realizar el CRUD de esta semana.
 ii ¿Qué hará hoy? 
-    RTA:  construir la capa de servicios para recibir informacion y dirigirla a los componentes.
+    RTA:  Implementacion de una capa de dominio con una capa de persistencia para conectar datos entre una y otra y crear un frontend tipo razor para enviar y obtener datos
+          de una base de datos desde el frontend, una vez funcione implementarlo en el proyecto de peliculas.
 iii. ¿Qué dificultades ha tenido?
-    RTA:  Iniciar y comprender como realizar la capa de persistencia.
+    RTA:  Falta de comprensión de los videos explicativos, se deben ver varias veces para comprender el contexto en el que se desarrolla el programa. 
 ***************************************************************************************************************************************************************************
 Desarrollador: Jhony Castro (Tester)
 i.	¿Qué hizo ayer?
