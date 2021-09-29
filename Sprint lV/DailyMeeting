@@ -8,7 +8,7 @@ i.	¿Qué hizo ayer?
     RTA:  Terminar el desarrollo del Sprint III 
 ii.	¿Qué hará hoy?
     RTA:  Realizar el paso a paso del dia lunes propuesto por la profesora. 
-iii.	¿Qué dificultades ha tenido?
+iii.¿Qué dificultades ha tenido?
     RTA:  Un incoveniente con el codigo para poder mostrar las vistas por categoría y algunos incovenientes de sintaxis en el desarrollo del Sprint III.
 ***************************************************************************************************************************************************************************
 Desarrollador: Rafael Arturo Suarez (Lider de grupo)
@@ -16,7 +16,7 @@ i. ¿Qué hizo ayer?
     RTA:  Terminar de realizar el Sprint III de la semana 4
 ii ¿Qué hará hoy? 
     RTA:  Aplicar lo visto en el dia de hoy al proyecto de las peliculas.
-iii. ¿Qué dificultades ha tenido?
+iii.¿Qué dificultades ha tenido?
     RTA:  Daño en el disco duro de mi computador. Y recrear todo el proyecto en otro computador e iniciar lo que ya se habia hecho.
 ***************************************************************************************************************************************************************************
 Desarrollador: Fabian Palacios (Desarrollo de software)
@@ -25,7 +25,7 @@ i. ¿Qué hizo ayer?
 ii ¿Qué hará hoy? 
     RTA:  Implementacion de una capa de dominio con una capa de persistencia para conectar datos entre una y otra y crear un frontend tipo razor para enviar y obtener datos
           de una base de datos desde el frontend, una vez funcione implementarlo en el proyecto de peliculas.
-iii. ¿Qué dificultades ha tenido?
+iii.¿Qué dificultades ha tenido?
     RTA:  Falta de comprensión de los videos explicativos, se deben ver varias veces para comprender el contexto en el que se desarrolla el programa. 
 ***************************************************************************************************************************************************************************
 Desarrollador: Jhony Castro (Tester)
@@ -33,7 +33,7 @@ i.	¿Qué hizo ayer?
     RTA:  Resolver el Sprint III, investigacion de Razor y C# y etiquetas html.
 ii.	¿Qué hará hoy
     RTA:  Continuar investigacion sobre el rol de tester y pruebas de equivalencia.
-iii.	¿Qué dificultades ha tenido?
+iii.¿Qué dificultades ha tenido?
     RTA:  Comprencio sobre el proyecto y las herramientas.
 ***************************************************************************************************************************************************************************
 Desarrollador: Anthony Diaz (Diseño UI)
@@ -41,7 +41,7 @@ i.	¿Qué hizo ayer?
     RTA:  Intalacion de todos los programas necesarios, ver grabaciones y videos para ponerse al dia con el tema.
 ii.	¿Qué hará hoy
     RTA:  Terminar de revisar todos los videos e iniciar el trabajo de interfaz de usuario y ayudar en lo que haga falta para la semana. 
-iii.	¿Qué dificultades ha tenido?
+iii.¿Qué dificultades ha tenido?
     RTA:  Al instalar los programas se presenta un error y falta de tiempo por temas laborales.
 ***************************************************************************************************************************************************************************
 
@@ -55,7 +55,7 @@ i.	¿Qué hizo ayer?
     RTA:  Revisar el material de apoyo de la semana en moodle, creacion de carpeta para el proyecto que se va a trabajar sincronicamente.
 ii.	¿Qué hará hoy?
     RTA:  Realizar el paso a paso propuesto por la formadora e investigar sobre como hacer trabajos colaborativos en Github.
-iii.	¿Qué dificultades ha tenido?
+iii.¿Qué dificultades ha tenido?
     RTA:  Ninguna.  
 ***************************************************************************************************************************************************************************
 Desarrollador: Rafael Arturo Suarez (Lider de grupo)
@@ -64,7 +64,7 @@ i.	¿Qué hizo ayer?
 ii.	¿Qué hará hoy?
     RTA:  Implementar el paso a paso del dia lunes para analizar, implementar y hacer los aportes correspondientes para el proyecto, compartir la informacion a los demas 
     miembros del grupo sobre como hacer trabajos colaborativos en Github.
-iii.	¿Qué dificultades ha tenido?
+iii.¿Qué dificultades ha tenido?
     RTA:  Dificultad tecnica del computador que ya esta superada. 
 ***************************************************************************************************************************************************************************
 Desarrollador: Fabian Palacios (Desarrollo de software)
@@ -73,7 +73,7 @@ i.	¿Qué hizo ayer?
           implementar el CRUD en el proyecto peliculas.
 ii.	¿Qué hará hoy?
     RTA:  Contiuar con las pruebas y revisar el material de apoyo para iniciar con la implementacion en el proyecto.
-iii.	¿Qué dificultades ha tenido?
+iii.¿Qué dificultades ha tenido?
     RTA:  Manejo del material, ha sido bastante información. 
 ***************************************************************************************************************************************************************************
 Desarrollador: Jhony Castro (Tester)
@@ -81,7 +81,7 @@ i.	¿Qué hizo ayer?
     RTA:  Revicion del material del paso a paso propuesto por la profesora e investigacion sobre el rol de tester.
 ii.	¿Qué hará hoy
     RTA:  Continuar con la investigación de tester y las pruebas a desarrollar.  
-iii.	¿Qué dificultades ha tenido?
+iii.¿Qué dificultades ha tenido?
     RTA:  Ninguna.
 ***************************************************************************************************************************************************************************
 Desarrollador: Anthony Diaz (Diseño UI)
@@ -89,54 +89,63 @@ i.	¿Qué hizo ayer?
     RTA:  Desistalacion de los programas que habian generado error e instalacion nuevamente de manera correcta, creacion del proyecto.  
 ii.	¿Qué hará hoy
     RTA:  Trabajar el en desarrollo de la interfaz, realizar el paso a paso de la semana, investigar sobre como hacer trabajos colaborativos en Github.
-iii.	¿Qué dificultades ha tenido?
+iii.¿Qué dificultades ha tenido?
     RTA:  Inconveniente en la instalacion que generaba error al crear el proyecto.
 ***************************************************************************************************************************************************************************
 
 
 ***************************************************************************************************************************************************************************
-Enlace grabación reunión:
+Enlace grabación reunión: https://drive.google.com/file/d/1Ui4VRe181mgzUVxVBd5S5Dl2clsGr4SP/view?usp=sharing
 Fecha:29/09/2021
 ***************************************************************************************************************************************************************************
 Desarrollador: Tatiana Pineda Rios (Administracion de configuración)
 i.	¿Qué hizo ayer? 
-    RTA:   
+    RTA:  Empezar el paso a paso propuesto por la profesora el dia lunes, Organizar la carpeta del drive, actualizar y organizar el tablero kanban, crear el archivo de las 
+          reuniones diarias en la carpeta del Sprint IV del Github y diligenciar este formato con todos los datos requeridos sobre los encuentros diarios que hemos tenido 
+          esta semana. 
 ii.	¿Qué hará hoy?
-    RTA:   
-iii.	¿Qué dificultades ha tenido?
-    RTA:  
+    RTA:  Continuar con el desarrollo del paso a paso del dia lunes y comenzar el paso a paso propuesto por la profesora el dia miercoles.   
+iii.¿Qué dificultades ha tenido?
+    RTA:  Ninguna hasta el momento. 
 ***************************************************************************************************************************************************************************
 Desarrollador: Rafael Arturo Suarez (Lider de grupo)
 i.	¿Qué hizo ayer?
-    RTA: Clonar el proyecto principal del grupo y estudiarlo, estudiar el paso a paso propuesto
+    RTA:  Realizar la copia del proyecto del grupo que se encuentra en el repositorio de Github el cual se ejecuta sin problema localmente, revision del paso a paso enviado
+          por la profesora. 
 ii.	¿Qué hará hoy?
-    RTA: Terminar de estudiar el paso a paso y empezar implementarlo en el proyecto a entregar
-iii.	¿Qué dificultades ha tenido?
-    RTA: SIn novedad
+    RTA:  Investigar el tema de la clonacion de proyectos de Github, revisar el tema propuesto por la profesora en la clase de hoy y empezar a implementar esos temas en el 
+          proyecto.
+iii.¿Qué dificultades ha tenido?
+    RTA:  Ya no se presentan las dificultades tecnicas que se presentaron anteriormente.
 ***************************************************************************************************************************************************************************
 Desarrollador: Fabian Palacios (Desarrollo de software)
 i.	¿Qué hizo ayer?
-    RTA:
+    RTA:  Actualizacion modelo entidad relación, creación de nuevas clases y herencias las cuales se integraron al proyecto, verificación del paso a paso.
 ii.	¿Qué hará hoy?
-    RTA:
-iii.	¿Qué dificultades ha tenido?
-    RTA:
+    RTA:  Continuar con el paso a paso, integrar nuevas funciones del CRUD al programa.
+iii.¿Qué dificultades ha tenido?
+    RTA:  Le ha parecido complidado el manejo de los web forms, ya que la explicación del profesor Oscar de los videos de moodle y la explicacion de la profesora Yaneth son 
+          bastante diferentes. 
 ***************************************************************************************************************************************************************************
 Desarrollador: Jhony Castro (Tester)
 i.	¿Qué hizo ayer?
-    RTA:
+    RTA:  Estudiar lo relacionado con el rol de tester y las pruebas, iniciar el documento de acuerdo al formato que brindo la profesora Yaneth adaptándolo a al proyecto, 
+    asistir a una tutoría, pero fue muy complicado obtener un turno ya que hay mucha gente allí, por lo tanto no se pudo llevar a cabo.       
 ii.	¿Qué hará hoy
-    RTA:
-iii.	¿Qué dificultades ha tenido?
-    RTA:
+    RTA:  Continuar con la elaboración del documento.  
+iii.¿Qué dificultades ha tenido?
+    RTA:  Dificultad con los campos de los formularios que hay que evaluar, los cuales seran evaluados en una nueva reunión de grupo.
 ***************************************************************************************************************************************************************************
 Desarrollador: Anthony Diaz (Diseño UI)
 i.	¿Qué hizo ayer?
-    RTA:
+    RTA:  Terminar de revisar los videos que faltaban, realizar la clonacion del proyecto del grupo que se encuentra en el repositorio del Github, sin embargo se presenta 
+    un error al ejecutarlo.  
 ii.	¿Qué hará hoy
-    RTA:
-iii.	¿Qué dificultades ha tenido?
-    RTA:
+    RTA:  Resolver el incoveniente que se presenta y avanzar en la interfaz grafica del proyecto. 
+iii.¿Qué dificultades ha tenido?
+    RTA:  Al momento de ejecutar el proyecto clonado se siguen presentado algunos errores, muy similares a los presentados hace unos dias con las instalaciones de los 
+          programas, los cuales se resolvieron haciendo de nuevo las instalaciones, sin embargo esta vez no ha funcionado.
+        
 ***************************************************************************************************************************************************************************
 
 
