@@ -1,40 +1,41 @@
 DailyMeeting
 
 ***************************************************************************************************************************************************************************
-Enlace grabación reunión:
-Fecha:
+Enlace grabación reunión:   https://drive.google.com/file/d/1EOql2AUrEcPyfktSil8QIDv-XQqAuFUi/view?usp=sharing
+Fecha: 04/Oct/2021
 ***************************************************************************************************************************************************************************
 Desarrollador: Tatiana Pineda Rios (Administracion de configuración)
 i.	¿Qué hizo ayer? 
-    RTA:   
+    RTA:    Actualización del Daily Meeting de la semana pasada, terminar algunas cosas del sprint IV.
 ii.	¿Qué hará hoy?
-    RTA:   
+    RTA:    Terminar el sprint para la entrega y las actividades que disponga la profesora en la sesión del día de hoy.  
 iii.	¿Qué dificultades ha tenido?
-    RTA:  
+    RTA:    Problemas de salud, con las actualizaciones del computador e inconvenientes con la clonación del proyecto. 
 ***************************************************************************************************************************************************************************
 Desarrollador: Rafael Arturo Suarez (Lider de grupo)
 i.	¿Qué hizo ayer?
-    RTA:
+    RTA:    Terminar de hacer lo que se pidió la semana pasada.
 ii.	¿Qué hará hoy?
-    RTA:
+    RTA:    Entregar la información y revisar el tema de hoy para la conexión a la base de datos.
 iii.	¿Qué dificultades ha tenido?
-    RTA:
+    RTA:    El acceso a internet en dónde estoy.
 ***************************************************************************************************************************************************************************
 Desarrollador: Fabian Palacios (Desarrollo de software)
 i.	¿Qué hizo ayer?
-    RTA:
+    RTA:    Revisar los formularios de validación de la profesora, sin mucho éxito ni avance.
 ii.	¿Qué hará hoy?
-    RTA:
+    RTA:    seguir revisando e integrar todos lo de los formularios al proyecto de películas, estar muy atento a lo dicho por la profesora el día de hoy e integrarla al 
+            proyecto.
 iii.	¿Qué dificultades ha tenido?
-    RTA:
+    RTA:    dificultades al entender los temas, varios vacíos en la información y en la forma de explicar los temas por parte de la profesora.
 ***************************************************************************************************************************************************************************
 Desarrollador: Jhony Castro (Tester)
 i.	¿Qué hizo ayer?
-    RTA:
+    RTA:    Buscar solución para conexión a internet. Antenas quemadas.  
 ii.	¿Qué hará hoy
-    RTA:
+    RTA:    Hoy no puedo hacer mayor cosa sin internet.
 iii.	¿Qué dificultades ha tenido?
-    RTA:
+    RTA:    Sin internet
 ***************************************************************************************************************************************************************************
 Desarrollador: Anthony Diaz (Diseño UI)
 i.	¿Qué hizo ayer?
@@ -47,44 +48,48 @@ iii.	¿Qué dificultades ha tenido?
 
 
 ***************************************************************************************************************************************************************************
-Enlace grabación reunión:
-Fecha:
+Enlace grabación reunión:   https://drive.google.com/file/d/1TPJC0EVSbG0w4K8w-JZheNUeUb6y_Eu9/view?usp=sharing
+Fecha:  05/Oct/2021
 ***************************************************************************************************************************************************************************
 Desarrollador: Tatiana Pineda Rios (Administracion de configuración)
 i.	¿Qué hizo ayer? 
-    RTA:   
+    RTA:    Actualización del tablero kanban, toma de pantallazos para el documento que se debe entregar a la tutora, tratar de subir el código a la carpeta del sprintIV 
+            del github.
 ii.	¿Qué hará hoy?
-    RTA:  
+    RTA:  Continuar revisando el código, mirar a ver que puedo aportar y seguir revisando como puedo subir el proyecto a la carpeta del sprintIV del github. 
 iii.	¿Qué dificultades ha tenido?
-    RTA:  
+    RTA:    No se ha podido subir el código directamente a la carpeta del sprintIV del repositorio del github, sé como subirlo directamente al repositorio pero, no ha sido 
+            posible colocarlo dentro de una carpeta dentro del repositorio. 
 ***************************************************************************************************************************************************************************
 Desarrollador: Rafael Arturo Suarez (Lider de grupo)
 i.	¿Qué hizo ayer?
-    RTA:
+    RTA:    Realizar la actualización del proyecto que está en github.
 ii.	¿Qué hará hoy?
-    RTA:
+    RTA:    Realizar la sincronización del proyecto que está en github, revisar denuevo la explicaion que nos brindo el compañero Fabian sobre ese tema, para poder hacerlo.
+            Seguir estudiando los temas, continuar con la investigación de conexión a la base de datos y como se implementa esto directamente a la nube.
 iii.	¿Qué dificultades ha tenido?
-    RTA:
+    RTA:    Sin novedad.
 ***************************************************************************************************************************************************************************
 Desarrollador: Fabian Palacios (Desarrollo de software)
 i.	¿Qué hizo ayer?
-    RTA:
+    RTA:    Modificar toda la organización de los componentes, aplicar el modelo atómico, donde todos los componentes están separados, hace falta implementarlo al proyecto 
+            de películas con los cambios anteriores, se hizo la primera parte del formulario de actores.
 ii.	¿Qué hará hoy?
-    RTA:
+    RTA:    Terminar los formularios y el crud completo de todas las categorías y empezar a capturar datos con las tablas.
 iii.	¿Qué dificultades ha tenido?
-    RTA:
+    RTA:    Sin novedad.
 ***************************************************************************************************************************************************************************
 Desarrollador: Jhony Castro (Tester)
 i.	¿Qué hizo ayer?
-    RTA:
+    RTA:    Aún sin internet, las antenas aún. No llegan. Sin novedad en las actividades.
 ii.	¿Qué hará hoy
     RTA:
 iii.	¿Qué dificultades ha tenido?
-    RTA:
+    RTA:    Sin internet.
 ***************************************************************************************************************************************************************************
 Desarrollador: Anthony Diaz (Diseño UI)
 i.	¿Qué hizo ayer?
-    RTA:
+    RTA:    Actualización de la interfaz de usuario del proyecto películas que se encuentra en el github.
 ii.	¿Qué hará hoy
     RTA:
 iii.	¿Qué dificultades ha tenido?
@@ -94,7 +99,7 @@ iii.	¿Qué dificultades ha tenido?
 
 ***************************************************************************************************************************************************************************
 Enlace grabación reunión:
-Fecha:
+Fecha:  07/Oct/2021
 ***************************************************************************************************************************************************************************
 Desarrollador: Tatiana Pineda Rios (Administracion de configuración)
 i.	¿Qué hizo ayer? 
@@ -106,11 +111,11 @@ iii.	¿Qué dificultades ha tenido?
 ***************************************************************************************************************************************************************************
 Desarrollador: Rafael Arturo Suarez (Lider de grupo)
 i.	¿Qué hizo ayer?
-    RTA:
+    RTA:    Bajar el documento del Sprint, actualizar nuevamente el proyecto con lo que está en el repositorio.
 ii.	¿Qué hará hoy?
-    RTA:
+    RTA:    Empezar a realizar la aplicación de los procedimientos descritos en el documento.
 iii.	¿Qué dificultades ha tenido?
-    RTA:
+    RTA:    Dificultad que se debe hacer el modelo de la base de datos, para compartirlo a los demás compañeros.
 ***************************************************************************************************************************************************************************
 Desarrollador: Fabian Palacios (Desarrollo de software)
 i.	¿Qué hizo ayer?
